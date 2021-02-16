@@ -7,11 +7,12 @@ My name is Sérgio Júnior and welcome to my GitHub profile.
 - I'm from São Paulo, Brazil, I'm 29 years old.
 - I have been working as a Front-End for almost 6 years.
 - I also have worked with Mobile and Back-End development.
-- I have a master degree in IT Management.
+- I have a master's degree in IT Management.
 - Yuval Harari is my favorite author.
 - I have Crohn's Disease for 6 years.
-- I write about dev stuffs and crohn's disease in two blogs.
-- I'm envolved with volunteer work, especially with homeless and abandoned cats.
+- I write about dev stuff and Crohn's disease in two blogs.
+- I have 7 females cats.
+- I'm involved with volunteer work, especially with homeless and abandoned cats.
 
 #### My latests posts
 
