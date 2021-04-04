@@ -27,10 +27,9 @@ My name is Sérgio Júnior and welcome to my GitHub profile.
 - [LinkedIn.](https://www.linkedin.com/in/sergioamjr/)
 - [Medium.](https://medium.com/@sergioamjr91)
 - [CodePen.](https://github.com/Sergioamjr/)
-- [Whatsapp.](http://wa.me/5511973836084)
 - [Gmail.](mailto:sergioamjr91@gmail.com)
 - [Instagram.](https://www.instagram.com/sergioamjr_/)
-- [Resume.](https://docs.google.com/document/d/1sRDSRSLUsrmmQQNyguniaTRv-C3vrJnhqlFbbO5FVrQ/edit)
+- [Resume.](https://www.notion.so/Resume-bdf5ceb3744c4dc5ab2d74c14deaa204)
 
 
 <!--
