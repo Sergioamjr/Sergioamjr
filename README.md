@@ -16,8 +16,8 @@ My name is Sérgio Júnior and welcome to my GitHub profile.
 
 #### My latests posts
 
-- [Explaining all React Hooks with examples](https://sergiojunior.com.br/posts_en/explaining-all-react-hooks-with-examples)
-- [Replacing Redux with React Hooks](https://sergiojunior.com.br/posts_en/replacing-redux-with-react-hooks)
+- [Explaining all React Hooks with examples](https://www.sergiojunior.com.br/en/explaining-all-react-hooks-with-examples)
+- [Replacing Redux with React Hooks](https://sergiojunior.com.br/en/replacing-redux-with-react-hooks)
 - [Acessibilidade na Internet](https://medium.com/d3-estudio/acessibilidade-na-internet-40b7c11f3b1a)
 - [Alimentação & DII](https://diariodeumcrohnista.com.br/alimentacao-dii/)
 
