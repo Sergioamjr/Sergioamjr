@@ -16,6 +16,8 @@ My name is Sérgio Júnior and welcome to my GitHub profile.
 
 #### My latests posts
 
+- [AI Development: Concepts Every Dev Needs to Understand](https://www.sergiojunior.com.br/en/ai-development-concepts)
+- [Making the Internet Accessible](https://www.sergiojunior.com.br/en/making-the-internet-accessible)
 - [Explaining all React Hooks with examples](https://www.sergiojunior.com.br/en/explaining-all-react-hooks-with-examples)
 - [Replacing Redux with React Hooks](https://sergiojunior.com.br/en/replacing-redux-with-react-hooks)
 - [Acessibilidade na Internet](https://medium.com/d3-estudio/acessibilidade-na-internet-40b7c11f3b1a)
@@ -28,7 +30,7 @@ My name is Sérgio Júnior and welcome to my GitHub profile.
 - [Medium.](https://medium.com/@sergioamjr91)
 - [CodePen.](https://github.com/Sergioamjr/)
 - [Gmail.](mailto:sergioamjr91@gmail.com)
-- [Instagram.](https://www.instagram.com/sergioamjr_/)
+- [Instagram.](https://www.instagram.com/sergioamjr_/) (some times I deactivated it for a while)
 - [Resume.](https://www.notion.so/Resume-bdf5ceb3744c4dc5ab2d74c14deaa204)
 
 
